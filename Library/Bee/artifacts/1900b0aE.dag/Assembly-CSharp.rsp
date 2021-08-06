@@ -356,7 +356,7 @@
 "Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs"
 "Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs"
 "Assets/Photon/PhotonRealtime/Demos/DemoLoadBalancing/ConnectAndJoinRandomLb.cs"
-"Assets/Scripts/AnyScene/CreateRoom.cs"
+"Assets/Scripts/AnyScene/CreateRoomMenu.cs"
 "Assets/Scripts/Managers/GameSettings.cs"
 "Assets/Scripts/Managers/MasterManager.cs"
 "Assets/Scripts/Managers/ScriptableObjectSingleton.cs"
