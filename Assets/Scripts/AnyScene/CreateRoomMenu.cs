@@ -17,13 +17,13 @@ public class CreateRoomMenu : MonoBehaviourPunCallbacks {
 
     }
 
-    public override void OnCreateRoom()
-    {
-        MasterManager.DebugConsole.AddText("Created room successfully.", this);
-    }
+    //public override void OnCreateRoom()
+    //{
+    //    MasterManager.DebugConsole.AddText("Created room successfully.", this);
+    //}
 
-    public override void OnCreateRoomFailed(short returnCode, string message)
-    {
-        MasterManager.DebugConsole.AddText("Room creation failed: " + message, this);
-    }
+    //public override void OnCreateRoomFailed(short returnCode, string message)
+    //{
+    //    MasterManager.DebugConsole.AddText("Room creation failed: " + message, this);
+    //}
 }

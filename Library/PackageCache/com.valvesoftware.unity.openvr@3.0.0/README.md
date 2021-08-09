@@ -1,0 +1,1 @@
+This npm listing has been deprecated. Please see the current package here: https://github.com/ValveSoftware/unity-xr-plugin
